@@ -22,7 +22,7 @@ Overall, I love learning and do it with enthusiasm. Based on this, I think I wil
 * Visual Studio Code
 * Microsoft Visual Studio  
 
-**Sample code:**  
+**Sample code**  
 
 ```
 let login = prompt ("Введите логин");
