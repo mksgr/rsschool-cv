@@ -1,0 +1,93 @@
+body {
+  margin: auto;
+  box-sizing: border-box;
+}
+.section {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
+.header {
+  padding: 30px 20%;
+  border-bottom: 1px solid black;
+}
+.name,
+.photo {
+  display: inline-block;
+  vertical-align: middle;
+}
+.name {
+  padding-right: 20%;
+}
+.about {
+  padding: 30px 20%;
+  border-bottom: 1px solid black;
+}
+span {
+  font-weight: 800;
+  font-size: 35px;
+  display: block;
+}
+.about p {
+  font-size: 20px;
+}
+.language,
+.ide {
+  display: inline-block;
+  vertical-align: top;
+}
+.ability {
+  padding: 30px 20%;
+  border-bottom: 1px solid black;
+}
+.language {
+  padding-right: 20%;
+}
+ul {
+  text-align: left;
+  font-size: 20px;
+}
+.code {
+  padding: 30px 20%;
+  border-bottom: 1px solid black;
+}
+.code span {
+  padding-bottom: 2%;
+}
+code {
+  text-align: left;
+}
+.info {
+  padding: 30px 20%;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  height: 90px;
+}
+
+.phone {
+  display: inline-block;
+}
+.github {
+  display: inline-block;
+  padding: 0 30%;
+  padding-top: 40px;
+}
+.mail {
+  display: inline-block;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+}
+a:active {
+  color: white;
+}
