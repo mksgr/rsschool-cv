@@ -21,6 +21,7 @@ At the moment I have no work experience. But thanks to my dedication and my skil
 * HTML
 * CSS (SCSS, BEM)
 * JavaScript (Fundamentals, ES6+, DOM)
+* PHP (Basic level)
 * Git, GitHub
 * Figma, Photoshop
 
